@@ -1,2 +1,3 @@
 # vc-clone-05
-This practical is forclone directory
+This practical is for clone directory
+author : Harshil
